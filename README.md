@@ -9,7 +9,7 @@ It should contain a 'Clear Strokes' button which will reset all stroke counts to
 
 #### Resources used:
 * ListActivity
-* list_item
+* Custom list_item
 * MVC
 * ListAdapter
 * ViewHolder
